@@ -15,7 +15,7 @@ class YaScooterOrderPageData:
             'first_name': 'Мария',
             'last_name': 'Кислицына',
             'address': 'Арбат 23',
-            'subway_name': 'Арбат',
+            'subway_name': 'Таганская',
             'telepthone_number': '79998887766',
             'date': '20.05.2025',
             'rental_period': 0,
